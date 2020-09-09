@@ -23,5 +23,4 @@ TPMN이 발급한 MoPub 인터스티셜 ad unit ID를 사용하셔야 합니다.
 # AdFit
 
 [여기](https://developers.mopub.com/publishers/mediation/integrate-unity/#mediation-adapters-for-unsupported-ad-networks)를 참고해서 진행하신 후에 피드백 부탁드립니다.
-
-어댑터는 [여기](https://github.com/tpmn/mopub-android-mediation-custom/tree/master/adfit)에서 다운로드하시면 됩니다. 
+어댑터는 [여기](https://github.com/tpmn/mopub-android-mediation-custom/tree/master/adfit)에서 다운로드하실 수 있습니다. 
