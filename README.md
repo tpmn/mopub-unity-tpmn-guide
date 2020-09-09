@@ -11,7 +11,7 @@
 
 ### 3. 퍼블리셔
 - 패키지 이름 변경
-- [가이드에](https://github.com/tpmn/mopub-unity-tpmn-guide/tree/master/android) 따라 애플리케이션에 광고 SDK 통합
+- 가이드([Android](https://github.com/tpmn/mopub-unity-tpmn-guide/tree/master/android)/iOS)에 따라 애플리케이션에 광고 SDK 통합
     +  MoPub (필수)
         - MoPub SDK 통합
         - 발급 받은 ID 사용하여 광고 인벤토리 구현 
